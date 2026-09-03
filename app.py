@@ -11,7 +11,7 @@ from google.genai import types
 from pypdf import PdfReader
 
 
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = "openai/gpt-oss-20b"
 MAX_RESUME_CHARS = 30000
 
 
