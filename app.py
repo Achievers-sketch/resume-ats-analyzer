@@ -11,7 +11,7 @@ from google.genai import types
 from pypdf import PdfReader
 
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "llama-3.1-8b-instant"
 MAX_RESUME_CHARS = 30000
 
 
